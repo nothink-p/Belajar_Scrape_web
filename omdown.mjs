@@ -1,6 +1,5 @@
 /**
- * PROJECT     : OM Download — Universal Scraper v3
- * AUTHOR      : BINTANG
+ * DIKELOLA    : Omnify Labs
  * DESCRIPTION : Extract semua format + URL download per format dari omdown.site
  * USAGE       : node omdown.mjs <link> [options]
  *
