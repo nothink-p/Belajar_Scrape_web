@@ -1,4 +1,4 @@
 # Belajar_Scrape_web
 error fix sendiri ya
 
-FULL EY AY POKOKNYA
+FULL EY AY POKOKNYA wkwk
