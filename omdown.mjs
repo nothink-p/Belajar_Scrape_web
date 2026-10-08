@@ -1,7 +1,8 @@
 /**
- * DIKELOLA    : Omnify Labs
- * DESCRIPTION : Extract semua format + URL download per format dari omdown.site
- * USAGE       : node omdown.mjs <link> [options]
+ * DIKELOLA     : Omnify Labs
+ * DESCRIPTION  : Extract semua format + URL download per format dari omdown.site
+ * USAGE        : node omdown.mjs <link> [options]
+ * CREATOR FILE : Skipp Mas No WM 
  *
  * OPTIONS:
  *   --headed       Tampilkan browser (default: headless)
